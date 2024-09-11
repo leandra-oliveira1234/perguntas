@@ -1,0 +1,47 @@
+Perguntas
+
+
+1- Como posso encontrar um documento específico no site?
+Para encontrar um documento específico, utilize a barra de pesquisa na página inicial do site. Digite palavras-chave relacionadas ao documento, 
+como o título, autor ou assunto. Se souber o título exato. Você também pode usar filtros para refinar os resultados de acordo com o tipo de 
+documento, data ou autor.
+
+
+2- Como posso filtrar os resultados para encontrar o que preciso?
+Após realizar uma busca, utilize os filtros disponíveis na página de resultados. Você pode refinar sua busca por data, tipo de documento
+(artigo, tese, relatório), autor ou outras categorias específicas. Normalmente, os filtros estão localizados na barra lateral ou no topo da página.
+
+
+3- O que fazer se eu não encontrar o documento que estou procurando mesmo após ajustar a busca?
+Se não encontrar o documento desejado, verifique se está usando as palavras-chave e filtros corretos. Considere buscar em outros repositórios ou bibliotecas digitais. 
+Você também pode entrar em contato com o suporte 
+
+
+4- Como posso buscar documentos por autor?
+Para buscar documentos por autor, insira o nome do autor na barra de pesquisa do site. Você pode usar aspas para procurar o nome completo exato, como “João Silva” também 
+oferece um filtro específico para pesquisar por autor após realizar a busca.
+
+
+5- Como posso pesquisar por documentos que foram atualizados recentemente?
+Para encontrar documentos atualizados recentemente, use o filtro de data disponível na página de resultados. Procure por filtros como “Últimos 30 dias” ou “Atualizações recentes”.
+
+
+6- Como posso saber mais sobre o formato ou a versão de um documento?
+As informações sobre o formato ou versão de um documento geralmente estão disponíveis na página de detalhes do documento. Após clicar no título do documento, verifique se há 
+informações sobre o formato (PDF, DOCX, etc.) e a versão do documento, se aplicável.
+
+
+7-Como posso acessar o histórico de minhas pesquisas anteriores no site?
+Para acessar o histórico de suas pesquisas anteriores, o site salva suas pesquisas automaticamente e permite que você acesse um histórico de pesquisas realizadas anteriormente.
+
+
+8-Como posso configurar minha conta para receber atualizações sobre novos documentos em minha área de interesse?
+Acesse as configurações da sua conta e procure por opções de “Notificações”. Lá, você pode configurar atualizações sobre novos documentos 
+
+
+9- Como posso verificar a data de última atualização de um documento?
+Se a data não estiver visível, verifique se há um histórico de versões ou edições que indique quando o documento foi atualizado pela última vez.
+
+
+10-Como posso configurar minha conta para visualizar ou gerenciar documentos offline?
+Procure por configurações em sua conta ou opções de “Sincronização” que permitam baixar e acessar documentos quando estiver offline.
